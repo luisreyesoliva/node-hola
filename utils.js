@@ -1,7 +1,7 @@
 
 
   
-const welcomeMessage = "server starting on ";
+const welcomeMessage = "server starting on... ";
 
 const getWelcomeMessage = () => {
     return welcomeMessage;
